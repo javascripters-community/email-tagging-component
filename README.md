@@ -1,6 +1,6 @@
 # EmailTagging
 
-This code is written by Imran shaikh, <shaikhimran786@gmail.com>
+This code is written by Imran shaikh, <shaikhimran786@gmail.com> or <imran@javascripters.org>
 
 About author:  Imran shaikh is a founder member of javascripters community, for more details please visit
 
