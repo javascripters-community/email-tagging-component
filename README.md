@@ -1,5 +1,11 @@
 # EmailTagging
 
+This code is written by Imran shaikh, <shaikhimran786@gmail.com>
+
+About author:  Imran shaikh is a founder member of javascripters community, for more details please visit
+
+http://javascripters.org/about
+
 This project is generated with [yo angular-typescript-gulp] (https://github.com/danwild/generator-angular-typescript)
 generator
 
