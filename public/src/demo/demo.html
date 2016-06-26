@@ -1,0 +1,18 @@
+<!--Tag directive template-->
+<div id="demo-css-inject">
+    <h2>Mail Address Tagging Component</h2>
+    <div class="row">
+        <form class="form-horizontal" role="form">
+            <div class="form-group">
+                <label class="control-label col-sm-2">To:</label>
+                <div class="col-sm-10">
+                    <tags-input ng-model="tags" on-tag-added="tagAdded($tag)" on-tag-removed="tagRemoved($tag)" type="email">
+                        <auto-complete source="loadTags($query)"></auto-complete>
+                    </tags-input>
+                </div>
+            </div>
+        </form>
+        <!--<span data-ng-if="errorMsg" class="has-error">{{errorMsg}}</span>-->
+    </div>
+</div>
+<p class="panel-body"><div class="panel">Tagged Email Details:<br/> {{tags | json}}</div></p>
