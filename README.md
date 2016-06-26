@@ -1,4 +1,4 @@
-# EmailTagging
+# Mail Address Tagging Component
 
 This code is written by Imran shaikh, <shaikhimran786@gmail.com> or <imran@javascripters.org>
 
