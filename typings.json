@@ -1,0 +1,28 @@
+{
+  "ambientDependencies": {
+    "angular": "registry:dt/angular#1.4.0+20160302143748",
+    "jquery": "registry:dt/jquery#2.0.0+20160303223636"
+  },
+  "globalDependencies": {
+    "angular": "github:DefinitelyTyped/DefinitelyTyped/angularjs/angular.d.ts#c1f48f095841d2e3225d8120f4b7b07fccbf0a2d",
+    "angular-mocks": "github:DefinitelyTyped/DefinitelyTyped/angularjs/angular-mocks.d.ts#14ab703f435375194360cdba3abab61afc879c18",
+    "angular-resource": "github:DefinitelyTyped/DefinitelyTyped/angularjs/angular-resource.d.ts#14ab703f435375194360cdba3abab61afc879c18",
+    "angular-route": "github:DefinitelyTyped/DefinitelyTyped/angularjs/angular-route.d.ts#14ab703f435375194360cdba3abab61afc879c18",
+    "angular-sanitize": "github:DefinitelyTyped/DefinitelyTyped/angularjs/angular-sanitize.d.ts#14ab703f435375194360cdba3abab61afc879c18",
+    "angular-translate": "registry:dt/angular-translate#2.4.0+20160505162438",
+    "angular-ui-bootstrap": "github:DefinitelyTyped/DefinitelyTyped/angular-ui-bootstrap/angular-ui-bootstrap.d.ts#14ab703f435375194360cdba3abab61afc879c18",
+    "angular-ui-router": "github:DefinitelyTyped/DefinitelyTyped/angular-ui-router/angular-ui-router.d.ts#14ab703f435375194360cdba3abab61afc879c18",
+    "chai": "github:DefinitelyTyped/DefinitelyTyped/chai/chai.d.ts#14ab703f435375194360cdba3abab61afc879c18",
+    "chai-datetime": "github:DefinitelyTyped/DefinitelyTyped/chai-datetime/chai-datetime.d.ts#14ab703f435375194360cdba3abab61afc879c18",
+    "gapi": "github:DefinitelyTyped/DefinitelyTyped/gapi/gapi.d.ts#14ab703f435375194360cdba3abab61afc879c18",
+    "github-electron": "github:DefinitelyTyped/DefinitelyTyped/github-electron/github-electron.d.ts#ec9eb4b28c74665a602c22db3457f0a76fa0fa23",
+    "jquery": "github:DefinitelyTyped/DefinitelyTyped/jquery/jquery.d.ts#16134c168d021351acb1673ee9659644fc58c424",
+    "mocha": "github:DefinitelyTyped/DefinitelyTyped/mocha/mocha.d.ts#14ab703f435375194360cdba3abab61afc879c18",
+    "moment": "github:DefinitelyTyped/DefinitelyTyped/moment/moment.d.ts#d969b903d1fce89a5e43828ec68458b4f852db4d",
+    "moment-node": "github:DefinitelyTyped/DefinitelyTyped/moment/moment-node.d.ts#d969b903d1fce89a5e43828ec68458b4f852db4d",
+    "node": "github:DefinitelyTyped/DefinitelyTyped/node/node.d.ts#ec9eb4b28c74665a602c22db3457f0a76fa0fa23",
+    "sinon": "github:DefinitelyTyped/DefinitelyTyped/sinon/sinon.d.ts#14ab703f435375194360cdba3abab61afc879c18",
+    "sinon-chai": "github:DefinitelyTyped/DefinitelyTyped/sinon-chai/sinon-chai.d.ts#14ab703f435375194360cdba3abab61afc879c18",
+    "toastr": "github:DefinitelyTyped/DefinitelyTyped/toastr/toastr.d.ts#16134c168d021351acb1673ee9659644fc58c424"
+  }
+}
